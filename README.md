@@ -1,4 +1,4 @@
-![Hi,I'm Abhishek 👋](https://github.com/abhishekak048/abhishekak048/blob/main/ezgif.com-video-to-gif.gif)
+![Hi,I'm Abhishek 👋](https://github.com/abhishekak048/abhishekak048/blob/main/Screen%20Recording%202021-04-23%20at%2011.45.59%20AM.gif)
 
 
 - 🔭 I’m currently working on App
