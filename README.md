@@ -8,21 +8,17 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
+### Talking about Personal Stuffs:
 
-
-
-- 🔭 I’m currently working on App
-- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on Instagram
-- 💬 Ask me about flutter
+- 🔭 I’m currently working on flutter 
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 📫 How to reach me:- [Linkedin: Abhishek-kumar](https://www.linkedin.com/in/abhishek-kumar-095828154/), [Instagram: abhishekak048](https://www.instagram.com/abhishekak048/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 🎮
 
+### My Absolute Favorites:
 
-
-
-
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
 
 
  ![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=abhishekak048)   
