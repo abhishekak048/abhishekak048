@@ -7,6 +7,10 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+
+
+
+
 - 🔭 I’m currently working on App
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on Instagram
@@ -17,6 +21,9 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekak048)](https://github.com/abhishekak048/github-readme-stats)      
-   ![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=abhishekak048)   
+
+
+
+
+ ![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=abhishekak048)   
 
