@@ -19,10 +19,3 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
-
-
-<br>
-<br>
-<br>
-
-<img align="left" width="525" height="=500" src="https://github-readme-stats.vercel.app/api?username=abhishekak048&theme=default"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekak048&theme=default)](https://github.com/anuraghazra/github-readme-stats)
