@@ -21,5 +21,4 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 
- ![Abhishek github stats](https://github-readme-stats.vercel.app/api?username=abhishekak048)   
-
+<img align="left" width="500" height="1000" src="https://github-readme-stats.vercel.app/api?username=abhishekak048"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekak048&theme=default)](https://github.com/anuraghazra/github-readme-stats)
