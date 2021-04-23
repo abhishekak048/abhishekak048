@@ -25,4 +25,4 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <br>
 <br>
 
-<img align="left" width="600" height="=600" src="https://github-readme-stats.vercel.app/api?username=abhishekak048&theme=default"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekak048&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="500" height="=500" src="https://github-readme-stats.vercel.app/api?username=abhishekak048&theme=default"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekak048&theme=default)](https://github.com/anuraghazra/github-readme-stats)
