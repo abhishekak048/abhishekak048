@@ -1,4 +1,4 @@
-![Hi,I'm Abhishek 👋](https://github.com/abhishekak048/abhishekak048/blob/main/Screen%20Recording%202021-04-23%20at%2011.45.59%20AM.gif)
+
 
 Hi, I'm [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-095828154/), 
 I am passionate about creating outstanding software solutions that create value for your business and lead to success.
@@ -10,7 +10,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on flutter 
+- 🔭 I’m currently working on Mobile Apps 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/abhishekak048/abhishekak048/issues/2)! I am happy to help.
 - 📫 How to reach me:- [Linkedin: Abhishek-kumar](https://www.linkedin.com/in/abhishek-kumar-095828154/), [Instagram: abhishekak048](https://www.instagram.com/abhishekak048/)
